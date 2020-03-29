@@ -1,0 +1,10 @@
+C:\Users\Fredy Cortés\source\repos\EjerciciosBuclesWhile3\EjerciciosBuclesWhile3\bin\Debug\netcoreapp3.1\EjerciciosBuclesWhile3.exe
+C:\Users\Fredy Cortés\source\repos\EjerciciosBuclesWhile3\EjerciciosBuclesWhile3\bin\Debug\netcoreapp3.1\EjerciciosBuclesWhile3.deps.json
+C:\Users\Fredy Cortés\source\repos\EjerciciosBuclesWhile3\EjerciciosBuclesWhile3\bin\Debug\netcoreapp3.1\EjerciciosBuclesWhile3.runtimeconfig.json
+C:\Users\Fredy Cortés\source\repos\EjerciciosBuclesWhile3\EjerciciosBuclesWhile3\bin\Debug\netcoreapp3.1\EjerciciosBuclesWhile3.runtimeconfig.dev.json
+C:\Users\Fredy Cortés\source\repos\EjerciciosBuclesWhile3\EjerciciosBuclesWhile3\bin\Debug\netcoreapp3.1\EjerciciosBuclesWhile3.dll
+C:\Users\Fredy Cortés\source\repos\EjerciciosBuclesWhile3\EjerciciosBuclesWhile3\bin\Debug\netcoreapp3.1\EjerciciosBuclesWhile3.pdb
+C:\Users\Fredy Cortés\source\repos\EjerciciosBuclesWhile3\EjerciciosBuclesWhile3\obj\Debug\netcoreapp3.1\EjerciciosBuclesWhile3.AssemblyInfoInputs.cache
+C:\Users\Fredy Cortés\source\repos\EjerciciosBuclesWhile3\EjerciciosBuclesWhile3\obj\Debug\netcoreapp3.1\EjerciciosBuclesWhile3.AssemblyInfo.cs
+C:\Users\Fredy Cortés\source\repos\EjerciciosBuclesWhile3\EjerciciosBuclesWhile3\obj\Debug\netcoreapp3.1\EjerciciosBuclesWhile3.dll
+C:\Users\Fredy Cortés\source\repos\EjerciciosBuclesWhile3\EjerciciosBuclesWhile3\obj\Debug\netcoreapp3.1\EjerciciosBuclesWhile3.pdb
