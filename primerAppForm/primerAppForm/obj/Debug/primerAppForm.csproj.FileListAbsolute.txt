@@ -1,9 +1,0 @@
-C:\Users\Fredy Cortés\source\repos\primerAppForm\primerAppForm\bin\Debug\primerAppForm.exe.config
-C:\Users\Fredy Cortés\source\repos\primerAppForm\primerAppForm\bin\Debug\primerAppForm.exe
-C:\Users\Fredy Cortés\source\repos\primerAppForm\primerAppForm\bin\Debug\primerAppForm.pdb
-C:\Users\Fredy Cortés\source\repos\primerAppForm\primerAppForm\obj\Debug\primerAppForm.csprojAssemblyReference.cache
-C:\Users\Fredy Cortés\source\repos\primerAppForm\primerAppForm\obj\Debug\primerAppForm.frmCalculadora.resources
-C:\Users\Fredy Cortés\source\repos\primerAppForm\primerAppForm\obj\Debug\primerAppForm.Properties.Resources.resources
-C:\Users\Fredy Cortés\source\repos\primerAppForm\primerAppForm\obj\Debug\primerAppForm.csproj.GenerateResource.cache
-C:\Users\Fredy Cortés\source\repos\primerAppForm\primerAppForm\obj\Debug\primerAppForm.exe
-C:\Users\Fredy Cortés\source\repos\primerAppForm\primerAppForm\obj\Debug\primerAppForm.pdb

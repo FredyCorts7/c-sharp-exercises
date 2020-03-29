@@ -1,0 +1,11 @@
+C:\Users\Fredy Cortés\source\repos\EjerciciosCondicionales1\EjerciciosCondicionales1\bin\Debug\netcoreapp3.1\EjerciciosCondicionales1.exe
+C:\Users\Fredy Cortés\source\repos\EjerciciosCondicionales1\EjerciciosCondicionales1\bin\Debug\netcoreapp3.1\EjerciciosCondicionales1.deps.json
+C:\Users\Fredy Cortés\source\repos\EjerciciosCondicionales1\EjerciciosCondicionales1\bin\Debug\netcoreapp3.1\EjerciciosCondicionales1.runtimeconfig.json
+C:\Users\Fredy Cortés\source\repos\EjerciciosCondicionales1\EjerciciosCondicionales1\bin\Debug\netcoreapp3.1\EjerciciosCondicionales1.runtimeconfig.dev.json
+C:\Users\Fredy Cortés\source\repos\EjerciciosCondicionales1\EjerciciosCondicionales1\bin\Debug\netcoreapp3.1\EjerciciosCondicionales1.dll
+C:\Users\Fredy Cortés\source\repos\EjerciciosCondicionales1\EjerciciosCondicionales1\bin\Debug\netcoreapp3.1\EjerciciosCondicionales1.pdb
+C:\Users\Fredy Cortés\source\repos\EjerciciosCondicionales1\EjerciciosCondicionales1\obj\Debug\netcoreapp3.1\EjerciciosCondicionales1.csprojAssemblyReference.cache
+C:\Users\Fredy Cortés\source\repos\EjerciciosCondicionales1\EjerciciosCondicionales1\obj\Debug\netcoreapp3.1\EjerciciosCondicionales1.AssemblyInfoInputs.cache
+C:\Users\Fredy Cortés\source\repos\EjerciciosCondicionales1\EjerciciosCondicionales1\obj\Debug\netcoreapp3.1\EjerciciosCondicionales1.AssemblyInfo.cs
+C:\Users\Fredy Cortés\source\repos\EjerciciosCondicionales1\EjerciciosCondicionales1\obj\Debug\netcoreapp3.1\EjerciciosCondicionales1.dll
+C:\Users\Fredy Cortés\source\repos\EjerciciosCondicionales1\EjerciciosCondicionales1\obj\Debug\netcoreapp3.1\EjerciciosCondicionales1.pdb

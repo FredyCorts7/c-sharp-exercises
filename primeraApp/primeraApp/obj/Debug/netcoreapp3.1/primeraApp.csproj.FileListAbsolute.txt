@@ -1,0 +1,11 @@
+C:\Users\Fredy Cortés\source\repos\primeraApp\primeraApp\bin\Debug\netcoreapp3.1\primeraApp.exe
+C:\Users\Fredy Cortés\source\repos\primeraApp\primeraApp\bin\Debug\netcoreapp3.1\primeraApp.deps.json
+C:\Users\Fredy Cortés\source\repos\primeraApp\primeraApp\bin\Debug\netcoreapp3.1\primeraApp.runtimeconfig.json
+C:\Users\Fredy Cortés\source\repos\primeraApp\primeraApp\bin\Debug\netcoreapp3.1\primeraApp.runtimeconfig.dev.json
+C:\Users\Fredy Cortés\source\repos\primeraApp\primeraApp\bin\Debug\netcoreapp3.1\primeraApp.dll
+C:\Users\Fredy Cortés\source\repos\primeraApp\primeraApp\bin\Debug\netcoreapp3.1\primeraApp.pdb
+C:\Users\Fredy Cortés\source\repos\primeraApp\primeraApp\obj\Debug\netcoreapp3.1\primeraApp.csprojAssemblyReference.cache
+C:\Users\Fredy Cortés\source\repos\primeraApp\primeraApp\obj\Debug\netcoreapp3.1\primeraApp.AssemblyInfoInputs.cache
+C:\Users\Fredy Cortés\source\repos\primeraApp\primeraApp\obj\Debug\netcoreapp3.1\primeraApp.AssemblyInfo.cs
+C:\Users\Fredy Cortés\source\repos\primeraApp\primeraApp\obj\Debug\netcoreapp3.1\primeraApp.dll
+C:\Users\Fredy Cortés\source\repos\primeraApp\primeraApp\obj\Debug\netcoreapp3.1\primeraApp.pdb

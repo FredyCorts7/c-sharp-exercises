@@ -1,0 +1,11 @@
+C:\Users\Fredy Cortés\source\repos\EjerciciosSwitch1\EjerciciosSwitch1\bin\Debug\netcoreapp3.1\EjerciciosSwitch1.exe
+C:\Users\Fredy Cortés\source\repos\EjerciciosSwitch1\EjerciciosSwitch1\bin\Debug\netcoreapp3.1\EjerciciosSwitch1.deps.json
+C:\Users\Fredy Cortés\source\repos\EjerciciosSwitch1\EjerciciosSwitch1\bin\Debug\netcoreapp3.1\EjerciciosSwitch1.runtimeconfig.json
+C:\Users\Fredy Cortés\source\repos\EjerciciosSwitch1\EjerciciosSwitch1\bin\Debug\netcoreapp3.1\EjerciciosSwitch1.runtimeconfig.dev.json
+C:\Users\Fredy Cortés\source\repos\EjerciciosSwitch1\EjerciciosSwitch1\bin\Debug\netcoreapp3.1\EjerciciosSwitch1.dll
+C:\Users\Fredy Cortés\source\repos\EjerciciosSwitch1\EjerciciosSwitch1\bin\Debug\netcoreapp3.1\EjerciciosSwitch1.pdb
+C:\Users\Fredy Cortés\source\repos\EjerciciosSwitch1\EjerciciosSwitch1\obj\Debug\netcoreapp3.1\EjerciciosSwitch1.csprojAssemblyReference.cache
+C:\Users\Fredy Cortés\source\repos\EjerciciosSwitch1\EjerciciosSwitch1\obj\Debug\netcoreapp3.1\EjerciciosSwitch1.AssemblyInfoInputs.cache
+C:\Users\Fredy Cortés\source\repos\EjerciciosSwitch1\EjerciciosSwitch1\obj\Debug\netcoreapp3.1\EjerciciosSwitch1.AssemblyInfo.cs
+C:\Users\Fredy Cortés\source\repos\EjerciciosSwitch1\EjerciciosSwitch1\obj\Debug\netcoreapp3.1\EjerciciosSwitch1.dll
+C:\Users\Fredy Cortés\source\repos\EjerciciosSwitch1\EjerciciosSwitch1\obj\Debug\netcoreapp3.1\EjerciciosSwitch1.pdb
