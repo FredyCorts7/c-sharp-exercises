@@ -1,0 +1,11 @@
+C:\Users\Fredy Cortés\source\repos\EjerciciosBuclesFor2\EjerciciosBuclesFor2\bin\Debug\netcoreapp3.1\EjerciciosBuclesFor2.exe
+C:\Users\Fredy Cortés\source\repos\EjerciciosBuclesFor2\EjerciciosBuclesFor2\bin\Debug\netcoreapp3.1\EjerciciosBuclesFor2.deps.json
+C:\Users\Fredy Cortés\source\repos\EjerciciosBuclesFor2\EjerciciosBuclesFor2\bin\Debug\netcoreapp3.1\EjerciciosBuclesFor2.runtimeconfig.json
+C:\Users\Fredy Cortés\source\repos\EjerciciosBuclesFor2\EjerciciosBuclesFor2\bin\Debug\netcoreapp3.1\EjerciciosBuclesFor2.runtimeconfig.dev.json
+C:\Users\Fredy Cortés\source\repos\EjerciciosBuclesFor2\EjerciciosBuclesFor2\bin\Debug\netcoreapp3.1\EjerciciosBuclesFor2.dll
+C:\Users\Fredy Cortés\source\repos\EjerciciosBuclesFor2\EjerciciosBuclesFor2\bin\Debug\netcoreapp3.1\EjerciciosBuclesFor2.pdb
+C:\Users\Fredy Cortés\source\repos\EjerciciosBuclesFor2\EjerciciosBuclesFor2\obj\Debug\netcoreapp3.1\EjerciciosBuclesFor2.csprojAssemblyReference.cache
+C:\Users\Fredy Cortés\source\repos\EjerciciosBuclesFor2\EjerciciosBuclesFor2\obj\Debug\netcoreapp3.1\EjerciciosBuclesFor2.AssemblyInfoInputs.cache
+C:\Users\Fredy Cortés\source\repos\EjerciciosBuclesFor2\EjerciciosBuclesFor2\obj\Debug\netcoreapp3.1\EjerciciosBuclesFor2.AssemblyInfo.cs
+C:\Users\Fredy Cortés\source\repos\EjerciciosBuclesFor2\EjerciciosBuclesFor2\obj\Debug\netcoreapp3.1\EjerciciosBuclesFor2.dll
+C:\Users\Fredy Cortés\source\repos\EjerciciosBuclesFor2\EjerciciosBuclesFor2\obj\Debug\netcoreapp3.1\EjerciciosBuclesFor2.pdb
